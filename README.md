@@ -28,7 +28,7 @@ Built to fill the gap in projects when you need a Product Manager/Product Owner 
 
 - **Frontend:** React + TypeScript + Tailwind CSS
 - **Backend:** Supabase (PostgreSQL)
-- **AI:** Google Gemini 1.5 Flash
+- **AI:** Google Gemini 1.5 Flash (coming soon)
 - **Deployment:** Vercel / Lovable
 - **Icons:** Lucide React
 
